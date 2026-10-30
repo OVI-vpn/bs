@@ -9,6 +9,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?security=tls&sni=wstg.datasynctrue.online&insecure=0&allowInsecure=0&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSWxRaTlqR1BKZDdLSE14Nlk0K0piYU5vV1NXZmUyQTczVTRKNG8wUXJzPQ@130.49.189.158:43558#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
 vless://d1f0c6cb-0d8b-4f13-8104-b7c8e8c57110@188.225.77.254:8443?encryption=none&fp=firefox&mode=gun&pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&security=reality&serviceName=ozone&sid=4951a2313524dd8f&sni=io.ozone.ru&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
+ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388#%F0%9F%87%A8%F0%9F%87%BE%20AetrisVPN
 vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?security=tls&alpn=http%2F1.1&sni=broadcast.liveflow.space&type=ws&headerType=none&host=broadcast.liveflow.space&path=%2Flive.stream.v1.Broadcast%2F&fp=android#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
 vless://7c8ec0f2-c064-46d5-801e-11f144544a19@178.248.236.209:10443?security=reality&sni=rutube.ru&fp=qq&pbk=glb1LK20uecGGnJ5BErD-hLfJfyay4wG-CiN5YSjT3k&sid=561533e7f4&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none#%F0%9F%87%A7%F0%9F%87%AA%20AetrisVPN
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
